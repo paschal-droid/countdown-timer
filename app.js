@@ -1,7 +1,7 @@
 
 
 // Set the date we're counting down to
-var countDownDate = new Date("May" + (new Date().getDay()+11) + ","+ "2021" + " "  + new Date().getTime() )
+var countDownDate = new Date("July" + (new Date().getDay()+11) + ","+ "2021" + " "  + new Date().getTime() )
 
 // Update the count down every 1 second
 var x = setInterval(function () {
